@@ -12,6 +12,9 @@ examples:
 this is an area for code or examples etc
 
 Counting uses natural number
+=======
+N={0,1,2,3...}
+
 ```
 
 + integer numbers
