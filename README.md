@@ -5,9 +5,9 @@
 ### 3.5.1 Number systems
 + natural numbers
 
-definition: 
+definition: those are numbers used for counting.
 
-examples: 
+examples: 0,1,2,3,4
 ``` 
 this is an area for code or examples etc
 
