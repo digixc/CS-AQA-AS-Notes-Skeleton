@@ -4,5 +4,8 @@
 
 ### 3.5.1 Number systems
 + natural numbers
+
+definition:
+examples: 
 + integer numbers
 + rational numbers
