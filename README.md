@@ -13,7 +13,14 @@ examples:
 + ordinal numbers
 
 ### 3.5.2 Number bases
++ base 2
++ base 10
++ base 16
+
 ### 3.5.3 Units of information
++ bit and bytes
++ units of kilo, kilbi etc
+
 ### 3.5.4 Binary number system
 
 #### unsigned binary
