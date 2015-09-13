@@ -4,7 +4,9 @@
 
 ### 3.5.1 Number systems
 + natural numbers
+
 definition: 
+
 examples: 
 ``` 
 this is an area for code or examples etc
