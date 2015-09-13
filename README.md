@@ -27,6 +27,7 @@ N={0,1,2,3...}
 + base 2: those are binary numbers. example: 1010<sub>2</sub>
 + base 10
 + base 16
++ conversion between denary, binary and hex
 
 ### 3.5.3 Units of information
 + bit and bytes
