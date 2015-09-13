@@ -12,7 +12,7 @@ examples:
 this is an area for code or examples etc
 
 Counting uses natural number
-=======
+A set of natural number can expressed as:
 N={0,1,2,3...}
 
 ```
