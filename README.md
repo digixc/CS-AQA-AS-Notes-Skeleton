@@ -24,7 +24,7 @@ N={0,1,2,3...}
 + ordinal numbers
 
 ### 3.5.2 Number bases
-+ base 2: those are binary numbers. example: 1010<sub>2</sub>. See [I'm an inline-style link](https://www.google.com) for more infomation
++ base 2: those are binary numbers. example: 1010<sub>2</sub>. See [this site](https://www.bournettocode.com/projects/AQA-CS_AS) for more infomation
 + base 10
 + base 16
 + conversion between denary, binary and hex
