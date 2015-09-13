@@ -8,6 +8,7 @@ definition:
 examples: 
 ``` 
 this is an area for code or examples etc
+```
 
 + integer numbers
 + rational numbers
