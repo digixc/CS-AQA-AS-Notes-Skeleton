@@ -10,6 +10,7 @@ definition:
 examples: 
 ``` 
 this is an area for code or examples etc
+N={0,1,2,3...}
 ```
 
 + integer numbers
