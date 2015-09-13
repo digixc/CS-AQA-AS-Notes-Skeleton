@@ -6,8 +6,9 @@
 + natural numbers
 definition: 
 examples: 
-``` this is an area for code or examples etc
-```
+``` 
+this is an area for code or examples etc
+
 + integer numbers
 + rational numbers
 + irrational numbers
