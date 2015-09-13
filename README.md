@@ -10,6 +10,8 @@ definition:
 examples: 
 ``` 
 this is an area for code or examples etc
+
+Counting uses natural number
 ```
 
 + integer numbers
