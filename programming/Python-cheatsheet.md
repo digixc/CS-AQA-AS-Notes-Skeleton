@@ -10,6 +10,7 @@ print (myVar)
 ```
 
 ## Python data types and data type conversions
+## Python calculations
 ## Python conditional statements
 
 ## Python loops
