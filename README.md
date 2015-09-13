@@ -24,7 +24,7 @@ N={0,1,2,3...}
 + ordinal numbers
 
 ### 3.5.2 Number bases
-+ base 2
++ base 2: those are binary numbers. example: 1010sub2
 + base 10
 + base 16
 
