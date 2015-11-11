@@ -1,11 +1,15 @@
 
+# AQA CS AS Notes
+
+## 3.7  Fundamentals of computer organisation and architecture
+
 # Internal hardware components of a computer
 
-*Objective*: Have an understanding and knowledge of the basic internal components of a computer system.
+**Objectives**: Have an understanding and knowledge of the basic internal components of a computer system.
 
 
 ### Processor, ALU, Control Unit,Registers, Memory
-*Objective*: understand the role of the following components and how they relate to each other:
+**Objectives**: understand the role of the following components and how they relate to each other:
 
 + Processor
 
